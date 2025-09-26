@@ -1,0 +1,1281 @@
+{
+  "generatedAt": "2025-09-26T18:33:09.410Z",
+  "boards": [
+    {
+      "id": "netease-acg-weekly",
+      "name": "网易云ACG榜",
+      "period": "weekly",
+      "updatedAt": "2025-09-25T02:27:55.753Z",
+      "description": "官方综合热度榜单，聚合当前最受欢迎的二游与动画相关曲目。",
+      "themeColor": "#8F6DFF",
+      "entries": [
+        {
+          "rank": 1,
+          "track": {
+            "id": "netease-2747166493",
+            "title": "JANE DOE",
+            "artist": "米津玄師 / 宇多田ヒカル",
+            "gameTitle": "JANE DOE",
+            "version": "Single",
+            "releaseDate": "2025-09-21",
+            "coverArt": "http://p1.music.126.net/z8vkaskRIKrLhTZ0zrqzDg==/109951172028084335.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2747166493.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12917,
+            "votes": 9000
+          }
+        },
+        {
+          "rank": 2,
+          "track": {
+            "id": "netease-2745026895",
+            "title": "IRIS OUT",
+            "artist": "米津玄師",
+            "gameTitle": "IRIS OUT",
+            "version": "Single",
+            "releaseDate": "2025-09-14",
+            "coverArt": "http://p1.music.126.net/X9wPjRlR4H39vjJtAzVA9Q==/109951171998034780.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2745026895.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12899,
+            "votes": 8975
+          }
+        },
+        {
+          "rank": 3,
+          "track": {
+            "id": "netease-2722510685",
+            "title": "耀斑",
+            "artist": "HOYO-MiX / YMIR",
+            "gameTitle": "崩坏星穹铁道-耀斑 Flares of the Blazing Sun",
+            "character": "《崩坏：星穹铁道》白厄动画短片单曲",
+            "version": "EP",
+            "releaseDate": "2025-07-09",
+            "coverArt": "http://p1.music.126.net/DYDACa_8zB5irAOrasVgnQ==/109951171396677694.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2722510685.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12881,
+            "votes": 8950
+          }
+        },
+        {
+          "rank": 4,
+          "track": {
+            "id": "netease-2709812973",
+            "title": "拂晓 Proi Proi",
+            "artist": "HOYO-MiX / NIDA",
+            "gameTitle": "崩坏星穹铁道-洞穴寓言（中篇）Allegory of the Cave (Part 2)",
+            "version": "专辑",
+            "releaseDate": "2025-05-30",
+            "coverArt": "http://p1.music.126.net/2qGGwWFlMYF2o-GyNMhH5A==/109951171066942237.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2709812973.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12863,
+            "votes": 8925
+          }
+        },
+        {
+          "rank": 5,
+          "track": {
+            "id": "netease-2741315465",
+            "title": "エガクミライ",
+            "artist": "MyGO!!!!!",
+            "gameTitle": "エガクミライ",
+            "version": "专辑",
+            "releaseDate": "2025-09-18",
+            "coverArt": "http://p1.music.126.net/JnEAoF11UPjZ32C1PVuhig==/109951171948543586.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2741315465.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12845,
+            "votes": 8900
+          }
+        },
+        {
+          "rank": 6,
+          "track": {
+            "id": "netease-2719303315",
+            "title": "革命道中 - On The Way",
+            "artist": "アイナ・ジ・エンド",
+            "gameTitle": "革命道中 - On The Way",
+            "version": "Single",
+            "releaseDate": "2025-07-01",
+            "coverArt": "http://p1.music.126.net/O678zp7D_41I3Zf9wkaK_A==/109951171358109061.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2719303315.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12827,
+            "votes": 8875
+          }
+        },
+        {
+          "rank": 7,
+          "track": {
+            "id": "netease-2707332868",
+            "title": "TIAN TIAN",
+            "artist": "Mili",
+            "gameTitle": "TIAN TIAN",
+            "character": "游戏《边狱巴士》引用歌曲",
+            "version": "Single",
+            "releaseDate": "2025-06-01",
+            "coverArt": "http://p1.music.126.net/3SREPNrEu561h_K2jLB8ww==/109951171011324261.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2707332868.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12809,
+            "votes": 8850
+          }
+        },
+        {
+          "rank": 8,
+          "track": {
+            "id": "netease-2745229550",
+            "title": "Jeopardy(Instrumental)",
+            "artist": "澤野弘之",
+            "gameTitle": "TO BE HERO X メインテーマ",
+            "version": "Single",
+            "releaseDate": "2025-09-23",
+            "coverArt": "http://p1.music.126.net/BPrFmyD_fMpr3Yr7nRBQ3g==/109951172000757423.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2745229550.mp3"
+          },
+          "metrics": {
+            "points": 95,
+            "change": 4,
+            "trend": "up",
+            "mentions": 12191,
+            "votes": 8425
+          }
+        },
+        {
+          "rank": 9,
+          "track": {
+            "id": "netease-2693116966",
+            "title": "顔",
+            "artist": "Ave Mujica",
+            "gameTitle": "顔",
+            "character": "TV动画《BanG Dream! Ave Mujica》最终话插入曲",
+            "version": "Single",
+            "releaseDate": "2025-04-16",
+            "coverArt": "http://p1.music.126.net/pVJnTwkrPfH9jZ5qTEhZOQ==/109951170709031886.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2693116966.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12773,
+            "votes": 8800
+          }
+        },
+        {
+          "rank": 10,
+          "track": {
+            "id": "netease-2689981077",
+            "title": "天球(そら)のMúsica",
+            "artist": "Ave Mujica",
+            "gameTitle": "天球(そら)のMúsica",
+            "character": "TV动画《BanG Dream! Ave Mujica》最终话插入曲",
+            "version": "专辑",
+            "releaseDate": "2025-04-02",
+            "coverArt": "http://p1.music.126.net/W3r5r1irzLc4n1ipfqoXQQ==/109951170674320010.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2689981077.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12755,
+            "votes": 8775
+          }
+        },
+        {
+          "rank": 11,
+          "track": {
+            "id": "netease-2700386313",
+            "title": "Somniomancer [null set]",
+            "artist": "塞壬唱片-MSR / Crywolf",
+            "gameTitle": "众生行记OST",
+            "character": "游戏《明日方舟》原声集",
+            "version": "专辑",
+            "releaseDate": "2025-05-03",
+            "coverArt": "http://p1.music.126.net/ggCZGLbtzSBr2SL2QS1opw==/109951170928386693.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2700386313.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12737,
+            "votes": 8750
+          }
+        },
+        {
+          "rank": 12,
+          "track": {
+            "id": "netease-2722447989",
+            "title": "致以无名的抗争者",
+            "artist": "鸣潮先约电台 / jixwang / Thena A / Tarokiki / VISION SOUND",
+            "gameTitle": "无名长诗",
+            "version": "专辑",
+            "releaseDate": "2025-07-05",
+            "coverArt": "http://p1.music.126.net/ThQj6h7-ZtSoeRRESBYa_A==/109951171402488996.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2722447989.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12719,
+            "votes": 8725
+          }
+        },
+        {
+          "rank": 13,
+          "track": {
+            "id": "netease-2693626963",
+            "title": "愿戴荣光坠入天渊",
+            "artist": "鸣潮先约电台 / jixwang / VISION SOUND",
+            "gameTitle": "真伪之塔",
+            "version": "专辑",
+            "releaseDate": "2025-04-13",
+            "coverArt": "http://p1.music.126.net/4xCb7nCDZA_bWJcPDGg_uQ==/109951170712564084.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2693626963.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12701,
+            "votes": 8700
+          }
+        },
+        {
+          "rank": 14,
+          "track": {
+            "id": "netease-2720129362",
+            "title": "RUNNING FOR YOUR LIFE",
+            "artist": "鸣潮先约电台 / Casey Lee Williams",
+            "gameTitle": "RUNNING FOR YOUR LIFE",
+            "character": "无所遁藏《鸣潮》先约电台EP2.4——露帕",
+            "version": "专辑",
+            "releaseDate": "2025-06-30",
+            "coverArt": "http://p1.music.126.net/8q5GxbfuI_0tdv9fZlnzsw==/109951171367729945.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2720129362.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12683,
+            "votes": 8675
+          }
+        },
+        {
+          "rank": 15,
+          "track": {
+            "id": "netease-2699629221",
+            "title": "Heavenly Me",
+            "artist": "AIYUE / 理名 / 塞壬唱片-MSR",
+            "gameTitle": "Heavenly Me",
+            "version": "Single",
+            "releaseDate": "2025-04-30",
+            "coverArt": "http://p1.music.126.net/EYHIR90JuXJNL6Vq3qDrGA==/109951170918941392.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2699629221.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12665,
+            "votes": 8650
+          }
+        },
+        {
+          "rank": 16,
+          "track": {
+            "id": "netease-2694779693",
+            "title": "Eclipse",
+            "artist": "Aimer / 塞壬唱片-MSR",
+            "gameTitle": "Eclipse",
+            "version": "Single",
+            "releaseDate": "2025-04-27",
+            "coverArt": "http://p1.music.126.net/LzdztLs3PtT9eBNvGSxMgQ==/109951170722800676.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2694779693.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12647,
+            "votes": 8625
+          }
+        },
+        {
+          "rank": 17,
+          "track": {
+            "id": "netease-2699981246",
+            "title": "不虚此行 On the Journey",
+            "artist": "魏晨 / Nea / HOYO-MiX",
+            "gameTitle": "崩坏星穹铁道-不虚此行 On the Journey",
+            "character": "《崩坏：星穹铁道》二周年纪念曲",
+            "version": "EP",
+            "releaseDate": "2025-05-03",
+            "coverArt": "http://p1.music.126.net/Yr2Os6k_nkk8_3U7nsdn9g==/109951170923618735.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2699981246.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12629,
+            "votes": 8600
+          }
+        },
+        {
+          "rank": 18,
+          "track": {
+            "id": "netease-2686299978",
+            "title": "INERTIA",
+            "artist": "SawanoHiroyuki[nZk] / Rei",
+            "gameTitle": "INERTIA",
+            "version": "Single",
+            "releaseDate": "2025-04-05",
+            "coverArt": "http://p1.music.126.net/ZffDDnetzQG0f1UMu89xJw==/109951170627459510.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2686299978.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12611,
+            "votes": 8575
+          }
+        },
+        {
+          "rank": 19,
+          "track": {
+            "id": "netease-2723338530",
+            "title": "ムリムリ進化論",
+            "artist": "七音阿卡莉",
+            "gameTitle": "ムリムリ進化論",
+            "version": "Single",
+            "releaseDate": "2025-07-08",
+            "coverArt": "http://p1.music.126.net/9G67gnaL-cElk4lbDTm-yQ==/109951171415382941.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2723338530.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12593,
+            "votes": 8550
+          }
+        },
+        {
+          "rank": 20,
+          "track": {
+            "id": "netease-2696227596",
+            "title": "Invincible (from Kaiju No. 8)",
+            "artist": "OneRepublic",
+            "gameTitle": "Invincible (from Kaiju No. 8)",
+            "version": "Single",
+            "releaseDate": "2025-04-17",
+            "coverArt": "http://p1.music.126.net/zaDQcor_r6RudCHwJYrk_A==/109951170734639265.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2696227596.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12575,
+            "votes": 8525
+          }
+        }
+      ]
+    },
+    {
+      "id": "netease-acg-anime",
+      "name": "网易云ACG动画榜",
+      "period": "monthly",
+      "updatedAt": "2025-09-26T18:33:09.240Z",
+      "description": "聚焦动画与番剧主题曲，突出视听联动作品的播放热度。",
+      "themeColor": "#FF77FF",
+      "entries": [
+        {
+          "rank": 1,
+          "track": {
+            "id": "netease-2745230350",
+            "title": "PARAGON(Instrumental)",
+            "artist": "澤野弘之",
+            "gameTitle": "TO BE HERO X Original Soundtrack \"ナイス\"",
+            "version": "专辑",
+            "releaseDate": "2025-09-23",
+            "coverArt": "https://p1.music.126.net/yB5e_DHFJxR0iwJ-RJAVaw==/109951172000765339.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2745230350.mp3"
+          },
+          "metrics": {
+            "points": 85,
+            "change": 3,
+            "trend": "up",
+            "mentions": 11117,
+            "votes": 7800
+          }
+        },
+        {
+          "rank": 2,
+          "track": {
+            "id": "netease-2726248734",
+            "title": "らしさ",
+            "artist": "Official髭男dism",
+            "gameTitle": "らしさ",
+            "version": "Single",
+            "releaseDate": "2025-08-05",
+            "coverArt": "https://p1.music.126.net/Y0Ka4T6MTvj-vhY0xvM--Q==/109951171467241055.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2726248734.mp3"
+          },
+          "metrics": {
+            "points": 95,
+            "change": 4,
+            "trend": "up",
+            "mentions": 12299,
+            "votes": 8575
+          }
+        },
+        {
+          "rank": 3,
+          "track": {
+            "id": "netease-2727103300",
+            "title": "太陽が昇らない世界 - A World Where the Sun Never Rises",
+            "artist": "Aimer",
+            "gameTitle": "太陽が昇らない世界 - A World Where the Sun Never Rises",
+            "character": "剧场版《鬼灭之刃 无限城篇 第一章 猗窝座再来》主题曲",
+            "version": "Single",
+            "releaseDate": "2025-07-18",
+            "coverArt": "https://p1.music.126.net/gGaYHT571-HXXwoQKNbs3g==/109951171480735948.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2727103300.mp3"
+          },
+          "metrics": {
+            "points": 95,
+            "change": 4,
+            "trend": "up",
+            "mentions": 12281,
+            "votes": 8550
+          }
+        },
+        {
+          "rank": 4,
+          "track": {
+            "id": "netease-2745229634",
+            "title": "Faded.",
+            "artist": "DAIKI(AWSM.)",
+            "gameTitle": "TO BE HERO X Original Soundtrack \"X\"",
+            "version": "专辑",
+            "releaseDate": "2025-09-23",
+            "coverArt": "https://p1.music.126.net/ugli4oGmbjnvBs3MgH00jg==/109951172000762348.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2745229634.mp3"
+          },
+          "metrics": {
+            "points": 30,
+            "change": -4,
+            "trend": "down",
+            "mentions": 4463,
+            "votes": 3325
+          }
+        },
+        {
+          "rank": 5,
+          "track": {
+            "id": "netease-2727103261",
+            "title": "残酷な夜に輝け - Shine in the Cruel Night",
+            "artist": "LiSA",
+            "gameTitle": "残酷な夜に輝け - Shine in the Cruel Night",
+            "version": "Single",
+            "releaseDate": "2025-07-18",
+            "coverArt": "https://p1.music.126.net/biQgZKsNO_Vh-FeuKXso6A==/109951171480745508.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2727103261.mp3"
+          },
+          "metrics": {
+            "points": 95,
+            "change": 4,
+            "trend": "up",
+            "mentions": 12245,
+            "votes": 8500
+          }
+        },
+        {
+          "rank": 6,
+          "track": {
+            "id": "netease-2745230448",
+            "title": "My Color",
+            "artist": "DAIKI(AWSM.)",
+            "gameTitle": "TO BE HERO X Original Soundtrack \"ラッキーシアン\"",
+            "version": "专辑",
+            "releaseDate": "2025-09-23",
+            "coverArt": "https://p1.music.126.net/OVhSWXsKQwG99L_ABWejFQ==/109951172000763991.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2745230448.mp3"
+          },
+          "metrics": {
+            "points": 40,
+            "change": -2,
+            "trend": "down",
+            "mentions": 5627,
+            "votes": 4075
+          }
+        },
+        {
+          "rank": 7,
+          "track": {
+            "id": "netease-2725896000",
+            "title": "かごめかごめ",
+            "artist": "オーイシマサヨシ",
+            "gameTitle": "かごめかごめ / ふたりキャンプ",
+            "version": "Single",
+            "releaseDate": "2025-08-05",
+            "coverArt": "https://p1.music.126.net/K_fpNputLO1XW8xHBiH86w==/109951171461927932.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2725896000.mp3"
+          },
+          "metrics": {
+            "points": 80,
+            "change": 3,
+            "trend": "up",
+            "mentions": 10409,
+            "votes": 7250
+          }
+        },
+        {
+          "rank": 8,
+          "track": {
+            "id": "netease-2745230451",
+            "title": "Twilight",
+            "artist": "DAIKI(AWSM.)",
+            "gameTitle": "TO BE HERO X Original Soundtrack \"ラッキーシアン\"",
+            "version": "专辑",
+            "releaseDate": "2025-09-23",
+            "coverArt": "https://p1.music.126.net/OVhSWXsKQwG99L_ABWejFQ==/109951172000763991.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2745230451.mp3"
+          },
+          "metrics": {
+            "points": 35,
+            "change": -3,
+            "trend": "down",
+            "mentions": 4991,
+            "votes": 3625
+          }
+        },
+        {
+          "rank": 9,
+          "track": {
+            "id": "netease-2704167264",
+            "title": "HALO",
+            "artist": "NOMELON NOLEMON",
+            "gameTitle": "HALO",
+            "character": "TV动画《机动战士高达GQuuuuuuX》插曲",
+            "version": "Single",
+            "releaseDate": "2025-05-21",
+            "coverArt": "https://p1.music.126.net/l94VKcEz8EBO9xh0LdLZLg==/109951170976842446.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2704167264.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12773,
+            "votes": 8800
+          }
+        },
+        {
+          "rank": 10,
+          "track": {
+            "id": "netease-2704167265",
+            "title": "きえない",
+            "artist": "NOMELON NOLEMON",
+            "gameTitle": "きえない",
+            "version": "Single",
+            "releaseDate": "2025-05-14",
+            "coverArt": "https://p1.music.126.net/-feglMgUC7XoKqC2F02Wjg==/109951170976849229.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2704167265.mp3"
+          },
+          "metrics": {
+            "points": 95,
+            "change": 4,
+            "trend": "up",
+            "mentions": 12155,
+            "votes": 8375
+          }
+        },
+        {
+          "rank": 11,
+          "track": {
+            "id": "netease-2744790271",
+            "title": "吹っ切れた",
+            "artist": "fox capture plan",
+            "gameTitle": "青春ブタ野郎はサンタクロースの夢を見ない　Original Soundtrack",
+            "version": "专辑",
+            "releaseDate": "2025-09-23",
+            "coverArt": "https://p1.music.126.net/0O6WiU1QvCqxMCQ8moBKZg==/109951171994917001.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2744790271.mp3"
+          },
+          "metrics": {
+            "points": 25,
+            "change": -4,
+            "trend": "down",
+            "mentions": 3737,
+            "votes": 2750
+          }
+        },
+        {
+          "rank": 12,
+          "track": {
+            "id": "netease-2709467935",
+            "title": "INERTIA",
+            "artist": "SawanoHiroyuki[nZk] / Rei",
+            "gameTitle": "INERTIA",
+            "version": "Single",
+            "releaseDate": "2025-06-10",
+            "coverArt": "https://p1.music.126.net/g3XuezqlqOAff8miw1xgPA==/109951171082555972.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2709467935.mp3"
+          },
+          "metrics": {
+            "points": 85,
+            "change": 3,
+            "trend": "up",
+            "mentions": 10919,
+            "votes": 7525
+          }
+        },
+        {
+          "rank": 13,
+          "track": {
+            "id": "netease-2664045219",
+            "title": "ミッドナイト・リフレクション",
+            "artist": "NOMELON NOLEMON",
+            "gameTitle": "ミッドナイト・リフレクション",
+            "version": "Single",
+            "releaseDate": "2025-01-17",
+            "coverArt": "https://p1.music.126.net/N1f3BByBpfdSUjFMgXRXnA==/109951170359994351.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2664045219.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12701,
+            "votes": 8700
+          }
+        },
+        {
+          "rank": 14,
+          "track": {
+            "id": "netease-2726935607",
+            "title": "HUGs",
+            "artist": "Paledusk",
+            "gameTitle": "HUGs",
+            "version": "Single",
+            "releaseDate": "2025-07-27",
+            "coverArt": "https://p1.music.126.net/GmHNHBduPQ8miKDrb8TDGQ==/109951171477962887.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2726935607.mp3"
+          },
+          "metrics": {
+            "points": 95,
+            "change": 4,
+            "trend": "up",
+            "mentions": 12083,
+            "votes": 8275
+          }
+        },
+        {
+          "rank": 15,
+          "track": {
+            "id": "netease-2690221389",
+            "title": "サマータイムゴースト",
+            "artist": "水曜日のカンパネラ",
+            "gameTitle": "サマータイムゴースト",
+            "version": "Single",
+            "releaseDate": "2025-04-03",
+            "coverArt": "https://p1.music.126.net/tOMxTjSyxfz8UP0ULXuB0A==/109951170676936507.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2690221389.mp3"
+          },
+          "metrics": {
+            "points": 95,
+            "change": 4,
+            "trend": "up",
+            "mentions": 12065,
+            "votes": 8250
+          }
+        },
+        {
+          "rank": 16,
+          "track": {
+            "id": "netease-2144813587",
+            "title": "ライラック",
+            "artist": "Mrs. GREEN APPLE",
+            "gameTitle": "ライラック",
+            "version": "Single",
+            "releaseDate": "2024-04-11",
+            "coverArt": "https://p1.music.126.net/7kR5VIqGIA3cm5iJkBkYHg==/109951169488365279.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2144813587.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12647,
+            "votes": 8625
+          }
+        },
+        {
+          "rank": 17,
+          "track": {
+            "id": "netease-2709470241",
+            "title": "KONTINUUM",
+            "artist": "SennaRin",
+            "gameTitle": "KONTINUUM (Complete Edition)",
+            "version": "Single",
+            "releaseDate": "2025-06-10",
+            "coverArt": "https://p1.music.126.net/IpjROiJrfRd6FfNTYqsKQA==/109951171082659704.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2709470241.mp3"
+          },
+          "metrics": {
+            "points": 90,
+            "change": 4,
+            "trend": "up",
+            "mentions": 11429,
+            "votes": 7800
+          }
+        },
+        {
+          "rank": 18,
+          "track": {
+            "id": "netease-2745230464",
+            "title": "Sincerely",
+            "artist": "深澤秀行",
+            "gameTitle": "TO BE HERO X Original Soundtrack \"黙殺\"",
+            "version": "专辑",
+            "releaseDate": "2025-09-23",
+            "coverArt": "https://p1.music.126.net/e9eVjtOw2wWKyQBccUu9Ng==/109951172000774052.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2745230464.mp3"
+          },
+          "metrics": {
+            "points": 20,
+            "change": -5,
+            "trend": "down",
+            "mentions": 3011,
+            "votes": 2175
+          }
+        },
+        {
+          "rank": 19,
+          "track": {
+            "id": "netease-2682082912",
+            "title": "被験体の進化における考察",
+            "artist": "浅沼晋太郎",
+            "gameTitle": "被験体の進化における考察 （『仮面ライダーガヴ』キャラクターソング）",
+            "version": "Single",
+            "releaseDate": "2025-03-15",
+            "coverArt": "https://p1.music.126.net/oHdOPOn03macPRchXP2vBA==/109951170566652288.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2682082912.mp3"
+          },
+          "metrics": {
+            "points": 80,
+            "change": 3,
+            "trend": "up",
+            "mentions": 10193,
+            "votes": 6950
+          }
+        },
+        {
+          "rank": 20,
+          "track": {
+            "id": "netease-2745229797",
+            "title": "Wishing",
+            "artist": "DAIKI(AWSM.)",
+            "gameTitle": "TO BE HERO X Original Soundtrack \"ラッキーシアン\"",
+            "version": "专辑",
+            "releaseDate": "2025-09-23",
+            "coverArt": "https://p1.music.126.net/OVhSWXsKQwG99L_ABWejFQ==/109951172000763991.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2745229797.mp3"
+          },
+          "metrics": {
+            "points": 25,
+            "change": -4,
+            "trend": "down",
+            "mentions": 3575,
+            "votes": 2525
+          }
+        }
+      ]
+    },
+    {
+      "id": "netease-acg-game",
+      "name": "网易云ACG游戏榜",
+      "period": "event",
+      "updatedAt": "2025-09-26T04:05:18.323Z",
+      "description": "覆盖热门二游与游戏 OST，关注版本活动与角色曲目的热度走势。",
+      "themeColor": "#38BDF8",
+      "entries": [
+        {
+          "rank": 1,
+          "track": {
+            "id": "netease-2741315465",
+            "title": "エガクミライ",
+            "artist": "MyGO!!!!!",
+            "gameTitle": "エガクミライ",
+            "version": "专辑",
+            "releaseDate": "2025-09-18",
+            "coverArt": "http://p1.music.126.net/JnEAoF11UPjZ32C1PVuhig==/109951171948543586.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2741315465.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12917,
+            "votes": 9000
+          }
+        },
+        {
+          "rank": 2,
+          "track": {
+            "id": "netease-2744623678",
+            "title": "Calling Softly",
+            "artist": "战双帕弥什",
+            "gameTitle": "织奏序言",
+            "version": "专辑",
+            "releaseDate": "2025-09-08",
+            "coverArt": "http://p1.music.126.net/u6Vdb7XVO4ZS6CrmHJJ9Pg==/109951171993560081.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2744623678.mp3"
+          },
+          "metrics": {
+            "points": 85,
+            "change": 3,
+            "trend": "up",
+            "mentions": 11099,
+            "votes": 7775
+          }
+        },
+        {
+          "rank": 3,
+          "track": {
+            "id": "netease-2709812973",
+            "title": "拂晓 Proi Proi",
+            "artist": "HOYO-MiX / NIDA",
+            "gameTitle": "崩坏星穹铁道-洞穴寓言（中篇）Allegory of the Cave (Part 2)",
+            "version": "专辑",
+            "releaseDate": "2025-05-30",
+            "coverArt": "http://p1.music.126.net/2qGGwWFlMYF2o-GyNMhH5A==/109951171066942237.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2709812973.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12881,
+            "votes": 8950
+          }
+        },
+        {
+          "rank": 4,
+          "track": {
+            "id": "netease-1971144922",
+            "title": "TruE",
+            "artist": "黄龄 / HOYO-MiX",
+            "gameTitle": "TruE",
+            "character": "崩坏3《因你而在的故事》动画短片印象曲",
+            "version": "Single",
+            "releaseDate": "2022-08-11",
+            "coverArt": "http://p1.music.126.net/cu9T_JCh5mt3aipWJoy03w==/109951167767293721.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=1971144922.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12863,
+            "votes": 8925
+          }
+        },
+        {
+          "rank": 5,
+          "track": {
+            "id": "netease-2658660685",
+            "title": "何者",
+            "artist": "谭晶 / HOYO-MiX",
+            "gameTitle": "崩坏星穹铁道-何者 Nameless Faces",
+            "character": "《崩坏：星穹铁道》翁法罗斯中文主题曲",
+            "version": "EP",
+            "releaseDate": "2025-01-08",
+            "coverArt": "http://p1.music.126.net/gtunmoxObQyoH01HzURNUw==/109951170292455448.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2658660685.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12845,
+            "votes": 8900
+          }
+        },
+        {
+          "rank": 6,
+          "track": {
+            "id": "netease-1965623491",
+            "title": "天上掉下个林妹妹",
+            "artist": "黄诗扶 / 绝对演绎",
+            "gameTitle": "天上掉下个林妹妹",
+            "character": "绝对演绎越剧联动推广曲",
+            "version": "Single",
+            "releaseDate": "2022-07-20",
+            "coverArt": "http://p1.music.126.net/GMnnWbGsvpjJyWYoxKZ0Xw==/109951167697021883.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=1965623491.mp3"
+          },
+          "metrics": {
+            "points": 100,
+            "change": 5,
+            "trend": "up",
+            "mentions": 12827,
+            "votes": 8875
+          }
+        },
+        {
+          "rank": 7,
+          "track": {
+            "id": "netease-2709813449",
+            "title": "故事与甜饼 Stories and Sweets",
+            "artist": "HOYO-MiX",
+            "gameTitle": "崩坏星穹铁道-洞穴寓言（中篇）Allegory of the Cave (Part 2)",
+            "version": "专辑",
+            "releaseDate": "2025-05-30",
+            "coverArt": "http://p1.music.126.net/2qGGwWFlMYF2o-GyNMhH5A==/109951171066942237.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2709813449.mp3"
+          },
+          "metrics": {
+            "points": 85,
+            "change": 3,
+            "trend": "up",
+            "mentions": 11009,
+            "votes": 7650
+          }
+        },
+        {
+          "rank": 8,
+          "track": {
+            "id": "netease-2709812971",
+            "title": "新页 New Page",
+            "artist": "HOYO-MiX",
+            "gameTitle": "崩坏星穹铁道-洞穴寓言（中篇）Allegory of the Cave (Part 2)",
+            "version": "专辑",
+            "releaseDate": "2025-05-30",
+            "coverArt": "http://p1.music.126.net/2qGGwWFlMYF2o-GyNMhH5A==/109951171066942237.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2709812971.mp3"
+          },
+          "metrics": {
+            "points": 85,
+            "change": 3,
+            "trend": "up",
+            "mentions": 10991,
+            "votes": 7625
+          }
+        },
+        {
+          "rank": 9,
+          "track": {
+            "id": "netease-2724022964",
+            "title": "I Was Born to Shine",
+            "artist": "无期迷途",
+            "gameTitle": "如蜜夜",
+            "version": "EP",
+            "releaseDate": "2025-07-09",
+            "coverArt": "http://p1.music.126.net/r0VmSxzt4sn6JbsLS4n0Bw==/109951171423572135.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2724022964.mp3"
+          },
+          "metrics": {
+            "points": 90,
+            "change": 4,
+            "trend": "up",
+            "mentions": 11573,
+            "votes": 8000
+          }
+        },
+        {
+          "rank": 10,
+          "track": {
+            "id": "netease-2739596242",
+            "title": "追夏",
+            "artist": "时空中的绘旅人 / 君君",
+            "gameTitle": "心动秘礼",
+            "version": "Single",
+            "releaseDate": "2025-08-26",
+            "coverArt": "http://p1.music.126.net/l1ESGUwPirDHT2XBnMbtoA==/109951171925516976.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2739596242.mp3"
+          },
+          "metrics": {
+            "points": 95,
+            "change": 4,
+            "trend": "up",
+            "mentions": 12155,
+            "votes": 8375
+          }
+        },
+        {
+          "rank": 11,
+          "track": {
+            "id": "netease-2728105200",
+            "title": "Star-mine",
+            "artist": "初星学園 / じん / Begrazia / 花海佑芽 / 秦谷美鈴 / 十王星南",
+            "gameTitle": "Star-mine",
+            "version": "专辑",
+            "releaseDate": "2025-07-31",
+            "coverArt": "http://p2.music.126.net/t0QsVemjOk4pseoeesv8Cg==/109951171495813997.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2728105200.mp3"
+          },
+          "metrics": {
+            "points": 90,
+            "change": 4,
+            "trend": "up",
+            "mentions": 11537,
+            "votes": 7950
+          }
+        },
+        {
+          "rank": 12,
+          "track": {
+            "id": "netease-2691003687",
+            "title": "Skeletal Wings",
+            "artist": "塞壬唱片-MSR / ADÀI宋黛霆 / David Lin / Robert Wolf / Obadiah Brown-Beach",
+            "gameTitle": "Skeletal Wings",
+            "version": "EP",
+            "releaseDate": "2025-04-06",
+            "coverArt": "http://p2.music.126.net/oiMBTM-r0fEXi0mSOKTocQ==/109951170684893694.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2691003687.mp3"
+          },
+          "metrics": {
+            "points": 95,
+            "change": 4,
+            "trend": "up",
+            "mentions": 12119,
+            "votes": 8325
+          }
+        },
+        {
+          "rank": 13,
+          "track": {
+            "id": "netease-2095949737",
+            "title": "玄黄 Ichor of Two Dragons",
+            "artist": "HOYO-MiX",
+            "gameTitle": "崩坏星穹铁道-行于命途 Experience the Paths",
+            "character": "《崩坏：星穹铁道》动画短片：「玄黄」",
+            "version": "专辑",
+            "releaseDate": "2023-11-02",
+            "coverArt": "http://p2.music.126.net/2OyyivDKfscFi1cpcYW_MQ==/109951169025204258.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2095949737.mp3"
+          },
+          "metrics": {
+            "points": 90,
+            "change": 4,
+            "trend": "up",
+            "mentions": 11501,
+            "votes": 7900
+          }
+        },
+        {
+          "rank": 14,
+          "track": {
+            "id": "netease-2702719802",
+            "title": "星海的回响",
+            "artist": "暖暖 / 无限暖暖 / FoldEcho",
+            "gameTitle": "无限暖暖——星海的回响",
+            "version": "专辑",
+            "releaseDate": "2025-05-08",
+            "coverArt": "http://p2.music.126.net/trmkeiTtTDxdBn6Deqv1MQ==/109951170959085163.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2702719802.mp3"
+          },
+          "metrics": {
+            "points": 90,
+            "change": 4,
+            "trend": "up",
+            "mentions": 11483,
+            "votes": 7875
+          }
+        },
+        {
+          "rank": 15,
+          "track": {
+            "id": "netease-2733717988",
+            "title": "罪火的启谕",
+            "artist": "无期迷途",
+            "gameTitle": "蚀日的烙痕",
+            "version": "EP",
+            "releaseDate": "2025-08-06",
+            "coverArt": "http://p2.music.126.net/ytoUJLU-429zJVdEkP7phg==/109951171796737413.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2733717988.mp3"
+          },
+          "metrics": {
+            "points": 75,
+            "change": 2,
+            "trend": "up",
+            "mentions": 9665,
+            "votes": 6650
+          }
+        },
+        {
+          "rank": 16,
+          "track": {
+            "id": "netease-2609432739",
+            "title": "Ré：Ré",
+            "artist": "モリモリあつし / uma",
+            "gameTitle": "Ré：Ré",
+            "character": "音乐游戏《Muse Dash》原创曲",
+            "version": "Single",
+            "releaseDate": "2025-01-29",
+            "coverArt": "http://p2.music.126.net/Pj7CtBZEVlx6gmDIngbjSA==/109951171472511964.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2609432739.mp3"
+          },
+          "metrics": {
+            "points": 65,
+            "change": 1,
+            "trend": "up",
+            "mentions": 8447,
+            "votes": 5825
+          }
+        },
+        {
+          "rank": 17,
+          "track": {
+            "id": "netease-2739356606",
+            "title": "铁血烬途",
+            "artist": "无期迷途",
+            "gameTitle": "残锋",
+            "version": "EP",
+            "releaseDate": "2025-08-25",
+            "coverArt": "http://p2.music.126.net/4Z-BaFs69h--Dhi2S-SDPA==/109951171921535737.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2739356606.mp3"
+          },
+          "metrics": {
+            "points": 75,
+            "change": 2,
+            "trend": "up",
+            "mentions": 9629,
+            "votes": 6600
+          }
+        },
+        {
+          "rank": 18,
+          "track": {
+            "id": "netease-2679699672",
+            "title": "The Minstrel Boy",
+            "artist": "三角洲行动",
+            "gameTitle": "三角洲行动 黑鹰坠落 游戏原声带",
+            "version": "专辑",
+            "releaseDate": "2025-02-20",
+            "coverArt": "http://p2.music.126.net/Jekk_PdDMQQu4YN7Zi1rRQ==/109951170526041200.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2679699672.mp3"
+          },
+          "metrics": {
+            "points": 90,
+            "change": 4,
+            "trend": "up",
+            "mentions": 11411,
+            "votes": 7775
+          }
+        },
+        {
+          "rank": 19,
+          "track": {
+            "id": "netease-2741559402",
+            "title": "不惭世上英（燕云十六声同人曲）",
+            "artist": "晴愔",
+            "gameTitle": "不惭世上英（燕云十六声同人曲）",
+            "version": "专辑",
+            "releaseDate": "2025-08-29",
+            "coverArt": "http://p2.music.126.net/UIp-UZckLNZd1qt-4k7R_A==/109951171952199361.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2741559402.mp3"
+          },
+          "metrics": {
+            "points": 65,
+            "change": 1,
+            "trend": "up",
+            "mentions": 8393,
+            "votes": 5750
+          }
+        },
+        {
+          "rank": 20,
+          "track": {
+            "id": "netease-2739352600",
+            "title": "残锋",
+            "artist": "无期迷途",
+            "gameTitle": "残锋",
+            "version": "EP",
+            "releaseDate": "2025-08-25",
+            "coverArt": "http://p2.music.126.net/4Z-BaFs69h--Dhi2S-SDPA==/109951171921535737.jpg",
+            "previewUrl": "https://music.163.com/song/media/outer/url?id=2739352600.mp3"
+          },
+          "metrics": {
+            "points": 85,
+            "change": 3,
+            "trend": "up",
+            "mentions": 10775,
+            "votes": 7325
+          }
+        }
+      ]
+    }
+  ],
+  "upcomingActivities": [
+    {
+      "id": "netease-acg-weekly-highlight",
+      "title": "网易云ACG榜 最新上榜：JANE DOE",
+      "type": "release",
+      "relatedGame": "JANE DOE",
+      "startDate": "2025-09-26",
+      "highlightTrackIds": [
+        "netease-2747166493"
+      ]
+    },
+    {
+      "id": "netease-acg-anime-highlight",
+      "title": "网易云ACG动画榜 最新上榜：PARAGON(Instrumental)",
+      "type": "release",
+      "relatedGame": "TO BE HERO X Original Soundtrack \"ナイス\"",
+      "startDate": "2025-09-26",
+      "highlightTrackIds": [
+        "netease-2745230350"
+      ]
+    },
+    {
+      "id": "netease-acg-game-highlight",
+      "title": "网易云ACG游戏榜 最新上榜：エガクミライ",
+      "type": "campaign",
+      "relatedGame": "エガクミライ",
+      "startDate": "2025-09-26",
+      "highlightTrackIds": [
+        "netease-2741315465"
+      ]
+    }
+  ]
+}
