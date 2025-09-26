@@ -9,10 +9,12 @@
 
 ## 本地手动部署
 1. 运行 `npm run fetch:data` 以生成最新的 `public/data/billboard.json`
-2. 构建产物：
+2. 构建产物（基础路径可按部署地址调整）：
    ```bash
    npm run build -- --base=/acg-music-billboard/
    ```
+3. 产出的站点会从 `BASE_URL/data/billboard.json` 读取真实数据，如部署路径改变请同步调整 base 或 `VITE_DATA_ENDPOINT`
 3. 将 `dist/` 目录中的静态文件上传至任意静态托管平台
 
 > 如果部署到不同路径，可将 `--base=/自定义路径/` 调整为目标根路径。
+

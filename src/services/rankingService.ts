@@ -2,7 +2,9 @@ import type { BillboardSnapshot } from "../types/music";
 import { mockBillboardSnapshot } from "../mocks/rankings";
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
-const DATA_ENDPOINT = import.meta.env.VITE_DATA_ENDPOINT ?? "/data/billboard.json";
+const baseUrl = import.meta.env.BASE_URL ?? '/';
+const defaultStaticEndpoint = `${baseUrl.replace(/\/$/, '')}/data/billboard.json`;
+const DATA_ENDPOINT = import.meta.env.VITE_DATA_ENDPOINT ?? defaultStaticEndpoint;
 
 const parseBooleanFlag = (value: unknown): boolean | undefined => {
   if (value === undefined || value === null) return undefined;
@@ -19,7 +21,7 @@ const cloneSnapshot = (snapshot: BillboardSnapshot): BillboardSnapshot =>
 
 const resolveEndpoint = () => {
   if (API_BASE_URL) {
-    return `${API_BASE_URL.replace(/\/$/, "")}/billboard/snapshot`;
+    return `${API_BASE_URL.replace(/\/$/, '')}/billboard/snapshot`;
   }
   return DATA_ENDPOINT;
 };
